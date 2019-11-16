@@ -1,2 +1,2 @@
 # CubeSat
-Object detection and object tracking
+Track and detect an object and rendezvous with it.
